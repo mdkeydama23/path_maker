@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592392112 source:c:\users\michael\desktop\path_maker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+	<strings.h>
+	<string.h>
+	<limits.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
